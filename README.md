@@ -1,4 +1,4 @@
-# GEO Guide for Automotive Businesses — Cited By AI®
+# GEO Guide for Automotive Businesses - Cited By AI®
 
 **A practical ASEO and GEO guide for car mechanic shops, specialist repairers,
 and automotive service centres.**
@@ -16,7 +16,7 @@ for three reasons: missing or incorrect JSON-LD schema, unstructured content tha
 AI cannot parse, and no location enrichment data to answer proximity queries.
 
 A workshop with a well-optimised website can rank on page one of Google and score
-an F on the Citation Probability Score® — meaning it is completely invisible to AI
+an F on the Citation Probability Score® - meaning it is completely invisible to AI
 search despite strong traditional SEO performance. These are different retrieval
 mechanisms requiring different optimisation strategies.
 
