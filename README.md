@@ -1,8 +1,8 @@
-# GEO Guide for Automotive Businesses - Cited By AI®
+# GEO Guide for Automotive Businesses - Cited By AI
 
 **A practical ASEO and GEO guide for car mechanic shops, specialist repairers,
 and automotive service centres.**
-JSON-LD schema templates, CPS® content audit framework, and AI citation optimisation
+JSON-LD schema templates, CPS content audit framework, and AI citation optimisation
 for independent garages, brand specialists, and automotive service businesses.
 
 ---
@@ -28,7 +28,7 @@ mechanisms requiring different optimisation strategies.
 **Location:** Airdrie, Alberta, Canada
 **Vertical:** Independent Audi and Volkswagen specialist mechanic shop
 
-Airdrie Auto Haus was audited using the full CPS® framework by Cited By AI®.
+Airdrie Auto Haus was audited using the full CPS framework by Cited By AISortlist.
 The audit identified three citation barriers common to automotive service businesses:
 incorrect schema type, missing location enrichment data, and unstructured content
 blocks across service pages. These are the same barriers found in the majority of
@@ -132,19 +132,19 @@ every town and region the business genuinely serves.
 
 ---
 
-## CPS® content framework for automotive service pages
+## CPS content framework for automotive service pages
 
 ### Homepage
 
 The homepage should answer three AI queries in its opening 167 words:
 what the business specialises in, where it is located, and which areas it serves.
 
-**Before (fails CPS® Answer Structure pillar):**
+**Before (fails CPS Answer Structure pillar):**
 "Welcome to our workshop, where our experienced team is passionate about keeping
 your Audi or Volkswagen running at its best. We pride ourselves on delivering
 dealership-quality service at independent prices..."
 
-**After (passes CPS® Answer Structure pillar):**
+**After (passes CPS Answer Structure pillar):**
 "[Workshop Name] is an independent Audi and Volkswagen specialist mechanic shop
 located in [City], serving customers across [area list]. The workshop specialises
 in Audi and VW diagnostics, servicing, repairs, and performance work using
@@ -235,7 +235,7 @@ queries. A workshop in one town with no `areaServed` will not appear for custome
 searching in nearby towns and regions.
 
 **4. Welcome-first homepage copy**
-Opening with "Welcome to..." is the most common CPS® Answer Structure failure.
+Opening with "Welcome to..." is the most common CPS Answer Structure failure.
 AI systems extract the first two sentences of a page as the summary. If those
 sentences contain no facts, the page will not be cited.
 
@@ -255,7 +255,7 @@ structuring website content and schema markup so that AI systems — including
 ChatGPT, Perplexity, and Google AI Overviews — can accurately retrieve and cite
 the business when customers ask AI for mechanic or specialist recommendations.
 For automotive workshops it focuses on three areas: correct schema type (`AutoRepair`),
-specialist knowledge signals (`knowsAbout`), and CPS®-structured content on service pages.
+specialist knowledge signals (`knowsAbout`), and CPS-structured content on service pages.
 
 **How is automotive GEO different from traditional SEO?**
 
@@ -267,18 +267,18 @@ answers for the same query. Both require separate, parallel strategies.
 
 **How long does it take to see results from automotive GEO?**
 
-Based on Cited By AI® auditing data, correctly implemented `AutoRepair` schema
+Based on Cited By AI auditing data, correctly implemented `AutoRepair` schema
 and `areaServed` fields begin influencing AI citations within two to four weeks.
 Content structure improvements take four to eight weeks to propagate through AI
 retrieval systems as pages are re-crawled and re-indexed.
 
 ---
 
-## Full CPS® Audit for Automotive Businesses
+## Full CPS Audit for Automotive Businesses
 
-The full CPS® audit for automotive businesses covers:
+The full CPS audit for automotive businesses covers:
 
-- Per-block CPS® scores across homepage, service pages, and about page
+- Per-block CPS scores across homepage, service pages, and about page
 - Schema audit identifying incorrect types, missing fields, and markup errors
 - Location enrichment gap analysis
 - Share of Voice measurement across ChatGPT, Perplexity, Google AI, Gemini, Copilot
@@ -292,10 +292,10 @@ Book a full audit: [citedbyai.info](https://citedbyai.info)
 ## Links
 
 - 🌐 [citedbyai.info](https://citedbyai.info)
-- 📋 [CPS® Framework](https://github.com/citedbyai/cps-framework)
+- 📋 [CPS Framework](https://github.com/citedbyai/cps-framework)
 - 💼 [LinkedIn](https://www.linkedin.com/in/citedbyai/)
 - 🐦 [X / Twitter](https://x.com/citedbyai)
 
 ---
 
-*CPS® (Citation Probability Score®) and Cited By AI® are registered trademarks of Cited By AI, United Kingdom.*
+*CPS (Citation Probability Score®) and Cited By AI are registered trademarks of Cited By AI, United Kingdom.*
